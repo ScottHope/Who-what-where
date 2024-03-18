@@ -5,5 +5,5 @@ body{
 .container{
     display:flex;
     justify-content:center;
-    pad: 1em;
+    padding: 1em;
 }
