@@ -1,0 +1,9 @@
+body{
+    background-color: darkgray;
+}
+
+.container{
+    display:flex;
+    justify-content:center;
+    pad: 1em;
+}
